@@ -1,0 +1,52 @@
+h3 {
+    color:red
+}
+h4 {
+    color:aqua;
+    font-size:50px;
+}
+/* ----------------------------------------------------------------  */
+/* This is comment in Css  */
+/* Css rule : it's everything from the beginning of selector to the curly brace ( { ) */
+/* selector*/
+/* declaration block  */
+/* declaration  */
+/* property  */
+/* Value  */
+/* --------------------------------------------------------------- */
+#Alaa {
+        color:blueviolet;
+        background:green ;
+}
+#Al {
+        color: black;
+        background: aquamarine;
+}
+/* --------------------------------------------------------------- */
+.Yellow  {
+         color:yellow;
+}
+.background {
+        background:rgb(114, 35, 35);
+}
+.uppercase {
+        font-style:italic ;
+}
+#size {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+/* --------------------------------------------------------------- */
+
+/* Descending Selector  */
+.Lorem p {
+        color:red
+}
+.Lorem h2 {
+        color:blueviolet
+}
+/* We selected only the Paragraph(Child) inside the div(Parent)  */
+
+
+
+
+ 

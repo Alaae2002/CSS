@@ -1,0 +1,25 @@
+/* Color  */
+/* Background-color and Background  */
+
+#item1 {
+  color: aqua;
+  background-color: black;
+}
+#item2 {
+  color: chartreuse;
+  background: rebeccapurple;
+}
+/* The differene between "Background-color" and "Background" is that the first one is more specific which means that you tell the text editor that you are going to use background but only for the color , while the second one gives more flexibility it allows you to add colors or images ...  */
+#item3 {
+  color: red;
+  background: url(./download.jpeg) no-repeat;
+  height: 200px;
+  width: 100%;
+}
+#item4 {
+  color: blue;
+  background-image: url(./leo.jpeg);
+  background-repeat: no-repeat;
+  height: 200px;
+}
+/* As we can see Background property gives us More flexebility even in no-repeat attribute */

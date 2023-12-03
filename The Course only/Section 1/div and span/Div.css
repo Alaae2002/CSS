@@ -1,0 +1,19 @@
+/* Div - and Span used for grouping  */
+/* Div - used to group multiple elements */
+/* SPAN - Used to groupe inline content  */
+
+.yellow {
+  color: yellow;
+  background: black;
+}
+.green {
+  color: green;
+  background: aquamarine;
+}
+span {
+  text-transform: uppercase;
+}
+.text {
+  background: white;
+  color: blue;
+}
