@@ -9,7 +9,7 @@
   color: chartreuse;
   background: rebeccapurple;
 }
-/* The differene between "Background-color" and "Background" is that the first one is more specific which means that you tell the text editor that you are going to use background but only for the color , while the second one gives more flexibility it allows you to add colors or images ...  */
+/* The differene between "Background-color" and "Background" is that the first one is more specific which means that you tell the browser that you are going to use background but only for the color , while the second one gives more flexibility it allows you to add colors or images ...  */
 #item3 {
   color: red;
   background: url(./download.jpeg) no-repeat;
